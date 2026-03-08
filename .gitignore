@@ -1,0 +1,7 @@
+.DS_Store
+**/node_modules/
+**/bun.lockb
+.Rproj.user
+Slides/
+Exercises/
+_extensions/
