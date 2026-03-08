@@ -4,9 +4,9 @@ layout: default
 theme: minima
 ---
 
-# Difference-in-Differences Talk at Camp Resources
+# Difference-in-Differences Talk at the University of Iowa
 
-These are the materials for my Difference-in-Differences workshop at Camp Resources, August 4, 2024.
+These are the materials for my Difference-in-Differences workshop at the University of Iowa, March 11, 2026.
 
 ## Introduction to Difference-in-Differences
 
