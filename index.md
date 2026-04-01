@@ -4,9 +4,9 @@ layout: default
 theme: minima
 ---
 
-# Difference-in-Differences Talk at the University of Iowa
+# Difference-in-Differences Talk at the University of Virginia
 
-These are the materials for my Difference-in-Differences workshop at the University of Iowa, March 11, 2026.
+These are the materials for my Difference-in-Differences workshop at the University of Virginia, April 1, 2026.
 
 ## Introduction to Difference-in-Differences
 
